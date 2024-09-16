@@ -12,7 +12,7 @@
   </ol>
   <h1>[활동]</h1>
   <h4>어떤활동을 했나요? </h4>
-  <img src="c:\Users\김민기\OneDrive - 부경대학교\바탕 화면\창업동아리\오아시스 로고.jpg" width="40%">
+  <img src="logo.jpg" width="40%">
   <p>
     저는 창업동아리<strong><u>오아시스팀</u></strong>을 운영하고 있습니다. 
 
