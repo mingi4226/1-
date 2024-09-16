@@ -12,7 +12,7 @@
   </ol>
   <h1>[경력]</h1>
   <h4>어떤일을 했나요? </h4>
-  <img src="https://www.fiti.re.kr/data/img/common/tlogo.gif" width="40%">
+  <img src="https://www.fiti.re.kr/data/img/page/logo_symbol.gif="40%">
   <p>
     저는 <strong><u>FITI시험연구원에서 분석화학평가팀</u></strong>에서 근무한 경력이 있습니다. <p>아릴아민 성분 검출을 위한 전처리 및 분석기기를 활용하는 업무를 했습니다.</p>
 
